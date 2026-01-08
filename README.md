@@ -1,4 +1,4 @@
-
+OBSOLETE VERSION Please see ra-tools
 This component is designed make it easy for any computer literate member of the Ramblers to set up and maintain a standard Joomla website. It builds on the technical work of other skilled volunteers, and provides simple, fool proof menu options that allow you to harness the powerful functions provided by the Ramblers Library without any need for programming.
 
 Included are:
